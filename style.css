@@ -4,8 +4,9 @@ body
     padding: 0;
     font-family: montserrat;
     background-image: url("polpo4.jpeg");
-    background-repeat: round;
+    background-repeat: no-repeat;
     height: 100vh;
+    width: 400px;
     overflow:hidden;
 }
 
