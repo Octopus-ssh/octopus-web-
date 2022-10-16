@@ -1,1 +1,0 @@
-<?php echo "Ciao Simone,<br /> come stai?"; ?>
